@@ -1,0 +1,19 @@
+# Proyecto Next.js aparte (no forma parte de la landing)
+portfolio/
+
+# Dependencias y artefactos de build
+node_modules/
+.next/
+dist/
+build/
+out/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
